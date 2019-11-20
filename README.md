@@ -9,8 +9,8 @@ This is a notes app that was built while taking the complete node developer cour
 ## Important snippet of code
 ![Important Snippet](/img/addNote.png)
 
-Above demos how we succesfuly added a note and how we took into consideration of duplicate notes. 
+The above shows the a the snippet of code on how we succesfuly added a note and how we took into consideration of duplicate notes. 
 
 ## The Final product in action 
 
-![Demo](/images/dups.gif)
+![Demo](/img/dups.gif)
